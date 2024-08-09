@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export default function Contact() {
     return (
         <>
-            <section id="contact" className="py-10 lg:py-32  hrela gradient contactBG ">
+            <section id="contact" className="py-10 lg:py-32 hrela gradient contactBG ">
                 <h1 className="hidden text-center uppercase text-white font-semibold lg:block mt-6">Alguma dúvida?</h1>
                 <h1 className="hidden font-Bitter text-6xl uppercase text-GreenP text-center font-bold lg:text-7x lg:block">Entre em contato</h1>
 
